@@ -1,0 +1,11 @@
+Dear Magdalena,
+
+I am applying for the Test specialist role at gmv, bringing over 10 years of experience in software testing, a B.E. in Electronics & Communication, and an ISTQB Foundation & agile Level certification. My expertise covers manual and automated testing—including functional, integration, regression, and performance testing—using tools like Selenium, Postman, Git, and Azure DevOps within Agile environments.
+
+I have led payment integration, API, and mobile app testing, prepared comprehensive test documentation, and worked extensively with SQL and PostgreSQL. Collaborating closely with developers, product owners, and business analysts, I focus on ensuring quality, compliance, and timely delivery.
+
+I am confident my skills and proven track record make me a strong fit for your QA team, and I look forward to contributing to GMV's success.
+
+Regards,
+Pooja Balachandran
+798774633
